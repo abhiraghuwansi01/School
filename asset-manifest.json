@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/abhiraghuwansi01/School/static/css/main.c25b97dc.css",
+    "main.js": "/abhiraghuwansi01/School/static/js/main.07fa5ce2.js",
+    "static/js/453.7ee4257d.chunk.js": "/abhiraghuwansi01/School/static/js/453.7ee4257d.chunk.js",
+    "static/media/school-ground.jpg": "/abhiraghuwansi01/School/static/media/school-ground.c48aa9d7127a7723476a.jpg",
+    "static/media/main-about-2.jpg": "/abhiraghuwansi01/School/static/media/main-about-2.0d8ff2c425d62f81dc19.jpg",
+    "static/media/student.png": "/abhiraghuwansi01/School/static/media/student.20ab2bbcd408f7acc22c.png",
+    "static/media/1.jpg": "/abhiraghuwansi01/School/static/media/1.0d4d21622da657cd4181.jpg",
+    "static/media/5.jpg": "/abhiraghuwansi01/School/static/media/5.ab7459cc62cc1b802a57.jpg",
+    "static/media/2.jpg": "/abhiraghuwansi01/School/static/media/2.561bcf0a8cee5e217b00.jpg",
+    "static/media/3.jpg": "/abhiraghuwansi01/School/static/media/3.9e27c0f28d02ad841369.jpg",
+    "static/media/6.jpg": "/abhiraghuwansi01/School/static/media/6.2a09ee6ee584953a0381.jpg",
+    "static/media/4.jpg": "/abhiraghuwansi01/School/static/media/4.1d581b450699e31834c2.jpg",
+    "static/media/logo.png": "/abhiraghuwansi01/School/static/media/logo.ac30434250a5153dabdd.png",
+    "static/media/7.jpg": "/abhiraghuwansi01/School/static/media/7.a194ab523467237727f6.jpg",
+    "static/media/9.jpg": "/abhiraghuwansi01/School/static/media/9.fddc58fafc3c538c3d02.jpg",
+    "static/media/third.gif": "/abhiraghuwansi01/School/static/media/third.92e956486a6ce86f610e.gif",
+    "static/media/about.jpg": "/abhiraghuwansi01/School/static/media/about.15fd68ace69404e63abb.jpg",
+    "static/media/8.jpeg": "/abhiraghuwansi01/School/static/media/8.70911ec468198a76ee57.jpeg",
+    "static/media/second.gif": "/abhiraghuwansi01/School/static/media/second.9539e6426bdf28e2735e.gif",
+    "static/media/slick.svg": "/abhiraghuwansi01/School/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/b1.webp": "/abhiraghuwansi01/School/static/media/b1.880805c4bbc7f62e78c6.webp",
+    "static/media/slick.eot": "/abhiraghuwansi01/School/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/abhiraghuwansi01/School/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/abhiraghuwansi01/School/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/abhiraghuwansi01/School/index.html",
+    "main.c25b97dc.css.map": "/abhiraghuwansi01/School/static/css/main.c25b97dc.css.map",
+    "main.07fa5ce2.js.map": "/abhiraghuwansi01/School/static/js/main.07fa5ce2.js.map",
+    "453.7ee4257d.chunk.js.map": "/abhiraghuwansi01/School/static/js/453.7ee4257d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c25b97dc.css",
+    "static/js/main.07fa5ce2.js"
+  ]
+}
